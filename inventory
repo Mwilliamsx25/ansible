@@ -1,11 +1,3 @@
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
-10.0.0.96 infra.local
+[rhel]
+infra.local 
 
